@@ -6,4 +6,8 @@ public class World {
     System.out.println("202113018");
   }
 
+  public static void run2() {
+    System.out.println("hello world");
+  }
+
 }
