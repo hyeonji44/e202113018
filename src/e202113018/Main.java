@@ -5,6 +5,8 @@ public class Main {
 	    System.out.println("주현지");
 		World.run();
 		World.run2();
+    	Hello.run();
+
 	  }
 
 }
